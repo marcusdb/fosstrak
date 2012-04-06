@@ -40,14 +40,14 @@
 
   <!-- =========================================================== -->
   <!-- Infrastructure                                              -->
-  <!-- ==========================================fosstrak.googlecode.com/svn/fc/tags/fc-1.1.0/fc</connection>
-   	<developerConnection>scm:svn:https://fosstrak.googlecode.com/svn/fc/tags/fc-1.1.0/fc</developerConnection>
-    	<url>https://fosstrak.googlecode.com/svn/fc/tags/fc-1.1.0/fc</url>
-  </scm>
-                              -->
-	<!-- ========================================================= -->
-	<!-- ORANGE: Properties                                          -->
-	<!-- =========================================================== -->
+  <!-- =========	<scm>
+    		<connection>https://fosstrak.googlecode.com/svn/fc/trunk/fc-commons</connection>
+   		<developerConnection>scm:svn:https://fosstrak.googlecode.com/svn/fc/trunk/fc-commons</developerConnection>
+    		<url>https://fosstrak.googlecode.com/svn/fc/trunk/fc-commons</url>
+  	</scm============== -->
+	<!-- Build settings                                	<!-- ORANGE: Properties============ -->
+	<!-- Dependencies                                                -->
+	<!-- ================================================== -->
 
 	<properties>
 		<fosstrak.llrp.version>1.1.0</fosstrak.llrp.version>
