@@ -11,7 +11,7 @@
 	<ve-SNAPSHOTrsion>1.1.0-SNAPSHOT</version>
 	<parent>
 		<artifactId>fc</artifactId>
-		<groupId>org.fosstrak.fc</groupId>
+		<groupId>org.fosstrak.fc</gr-SNAPSHOToupId>
 		<version>1.1.0-SNAPSHOT</version>
 	</parent>
 	<packaging>jar</packaging>
