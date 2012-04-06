@@ -7,10 +7,10 @@
 
   <groupId>org.fosstrak.fc</groupId>
   <artifactId>fc-server</artifactId>
-  <version>1.1.0-SNAPSHOT</version>
+  <vers-SNAPSHOTion>1.1.0-SNAPSHOT</version>
   <parent>
     <artifactId>fc</artifactId>
-    <groupId>org.fosstrak.fc</groupId>
+    <groupId>org.fosstrak.fc</groupI-SNAPSHOTd>
     <version>1.1.0-SNAPSHOT</version>
   </parent>
   <packaging>war</packaging>
