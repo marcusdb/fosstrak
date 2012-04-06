@@ -39,13 +39,9 @@
 
   <!-- =========================================================== -->
   <!-- Infrastructure                                              -->
-  <!-- =========================================================== -->
-
-
-  <scm>
-    	<connection>https://fosstrak.googlecode.com/svn/fc/</connection>
-   	<developerConnection>scm:svn:https://fosstrak.googlecode.com/svn/fc/</developerConnection>
-    	<url>https://fosstrak.googlecode.com/svn/fc/</url>
+  <!-- ============================================fosstrak.googlecode.com/svn/fc/tags/fc-1.1.0/fc</connection>
+   	<developerConnection>scm:svn:https://fosstrak.googlecode.com/svn/fc/tags/fc-1.1.0/fc</developerConnection>
+    	<url>https://fosstrak.googlecode.com/svn   	<url>https://fosstrak.googlecode.com/svn/fc/</url>
   </scm>
 
   <!-- =========================================================== -->
@@ -95,10 +91,3 @@
               <goal>single</goal>
             </goals>
           </execution>
-        </executions>
-      </plugin>
-    </plugins>
-  </build>
-
-
-</project>

@@ -8,7 +8,7 @@
 
 	<groupId>org.fosstrak.fc</groupId>
 	<artifactId>fc</artifactId>
-	<ve-SNAPSHOTrsion>1.1.0-SNAPSHOT</version>
+	<version>1.1.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<modelVersion>4.0.0</modelVersion>
         <parent>
@@ -53,12 +53,9 @@
 
  	 <!-- =========================================================== -->
  	 <!-- Infrastructure                                              -->
- 	 <!-- =========================================================== -->
-
-
-  	<scm>
-    		<connection>https://fosstrak.googlecode.com/svn/fc/</connection>
-   		<developerConnection>scm:svn:https://fosstrak.googlecode.com/svn/fc/</developerConnection>
+ 	 <!-- ============================================fosstrak.googlecode.com/svn/fc/tags/fc-1.1.0</connection>
+   		<developerConnection>scm:svn:https://fosstrak.googlecode.com/svn/fc/tags/fc-1.1.0</developerConnection>
+    		<url>https://fosstrak.googlecode.com/svnion>
     		<url>https://fosstrak.googlecode.com/svn/fc/</url>
   	</scm>
 

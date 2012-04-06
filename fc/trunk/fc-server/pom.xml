@@ -39,20 +39,16 @@
 
   <!-- =========================================================== -->
   <!-- Infrastructure                                              -->
-  <!-- =========================================================== -->
-
-
-  <scm>
-    	<connection>https://fosstrak.googlecode.com/svn/fc/</connection>
-   	<developerConnection>scm:svn:https://fosstrak.googlecode.com/svn/fc/</developerConnection>
-    	<url>https://fosstrak.googlecode.com/svn/fc/</url>
+  <!-- =============================================fosstrak.googlecode.com/svn/fc/tags/fc-1.1.0/fc</connection>
+   	<developerConnection>scm:svn:https://fosstrak.googlecode.com/svn/fc/tags/fc-1.1.0/fc</developerConnection>
+    	<url>https://fosstrak.googlecode.com/svn/fc/tags/fc-1.1.0/fc</url>
   </scm>
 
-
-
-  <!-- =========================================================== -->
-  <!-- Dependencies                                                -->
-  <!-- =========================================================== -->
+<groupId>xerces</groupId>
+      <artifactId>xercesImpl</artifactId>
+    </depeDependencies  ========================== -->
+  <!-- Infrastructure                                              -->
+  <!-- ===================================== -->
 
   <dependencies>
     <dependency>
@@ -147,13 +143,4 @@
             <id>make-assembly</id>
             <phase>package</phase>
             <goals>
-              <goal>single</goal>
-            </goals>
-          </execution>
-        </executions>
-      </plugin>
-    </plugins>
-  </build>
-
-
-</project>
+              <goal>single</

@@ -40,16 +40,12 @@
 
   <!-- =========================================================== -->
   <!-- Infrastructure                                              -->
-  <!-- =========================================================== -->
-
-
-  <scm>
-    	<connection>https://fosstrak.googlecode.com/svn/fc/</connection>
-   	<developerConnection>scm:svn:https://fosstrak.googlecode.com/svn/fc/</developerConnection>
-    	<url>https://fosstrak.googlecode.com/svn/fc/</url>
+  <!-- ==========================================fosstrak.googlecode.com/svn/fc/tags/fc-1.1.0/fc</connection>
+   	<developerConnection>scm:svn:https://fosstrak.googlecode.com/svn/fc/tags/fc-1.1.0/fc</developerConnection>
+    	<url>https://fosstrak.googlecode.com/svn/fc/tags/fc-1.1.0/fc</url>
   </scm>
-
-	<!-- =========================================================== -->
+                              -->
+	<!-- ========================================================= -->
 	<!-- ORANGE: Properties                                          -->
 	<!-- =========================================================== -->
 
@@ -209,15 +205,4 @@
 									file="target/generated-sources/main/java/org/fosstrak/ale/xsd/ale/epcglobal/ObjectFactory.java" />
 								<copy file="src/main/resources/patches/ObjectFactory.java"
 									tofile="target/generated-sources/main/java/org/fosstrak/ale/xsd/ale/epcglobal/ObjectFactory.java"
-									failonerror="true" verbose="false" />
-							</tasks>
-						</configuration>
-						<goals>
-							<goal>run</goal>
-						</goals>
-					</execution>
-				</executions>
-			</plugin>
-		</plugins>
-	</build>
-</project>
+			
