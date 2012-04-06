@@ -39,14 +39,15 @@
 
   <!-- =========================================================== -->
   <!-- Infrastructure                                              -->
-  <!-- ============================================fosstrak.googlecode.com/svn/fc/tags/fc-1.1.0/fc</connection>
-   	<developerConnection>scm:svn:https://fosstrak.googlecode.com/svn/fc/tags/fc-1.1.0/fc</developerConnection>
-    	<url>https://fosstrak.googlecode.com/svn   	<url>https://fosstrak.googlecode.com/svn/fc/</url>
-  </scm>
-
-  <!-- =========================================================== -->
-  <!-- Dependencies                                                -->
-  <!-- =========================================================== -->
+  <!-- ===========	<scm>
+    		<connection>https://fosstrak.googlecode.com/svn/fc/trunk/fc-client</connection>
+   		<developerConnection>scm:svn:https://fosstrak.googlecode.com/svn/fc/trunk/fc-client</developerConnection>
+    		<url>https://fosstrak.googlecode.com/svn/fc/trunk/fc-client</url>
+  	</scm>
+ Plugins                                                     -->
+  <!--  <!-- Dependencies  =========================== -->
+  <!-- Infrastructure                                              -->
+  <!-- ===================================== -->
 
   <dependencies>
     <dependency>
