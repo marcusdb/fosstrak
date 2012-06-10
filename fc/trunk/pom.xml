@@ -179,10 +179,7 @@
 			<releases>
 				<enabled>true</enabled>
 				<updatePolicy>daily</updatePolicy>
-				<checksumPolicy>warn</checksumPolicy>
-			</releases>
-			<snapshots>
-				<enabled>false</enabled>
+				<checksumPolicy>warn</checksumPolics://oss.sonatype.org/content/repositories/public/enabled>false</enabled>
 			</snapshots>
 			<id>fosstrak-repository</id>
 			<name>Fosstrak repository</name>
