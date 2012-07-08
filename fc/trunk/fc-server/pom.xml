@@ -110,6 +110,10 @@
       <groupId>log4j</groupId>
       <artifactId>log4j</artifactId>
     </dependency>
+    <depend    <dependency>
+      <groupId>org.easymock</groupId>
+      <artifactId>easymock
+    </dependency>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
