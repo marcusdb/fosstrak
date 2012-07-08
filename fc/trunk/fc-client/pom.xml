@@ -120,7 +120,7 @@
             <goals>
               <goal>single</goal>  <resources>
       <resource>
-        <directory>src/main/resources/props</directory>
+        <directory>src/main/resources</directory>
         <filtering>true</filtering>
       </resource>
     </resources>
