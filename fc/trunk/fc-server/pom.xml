@@ -141,6 +141,11 @@
 		<groupId>org.springframework</groupId>
 		<artifactId>spring-beans</artifactId>
 	ency>
+    <de	<dependency>
+		<groupId>uk.com.robust-it</groupId>
+		<artifactId>cloning</artifactId>
+		<version>1.8.2</version>
+	ency>
     <dependency>
       <groupId>xerces</groupId>
       <artifactId>xercesImpl</artifactId>
