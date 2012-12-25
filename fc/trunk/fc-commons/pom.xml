@@ -8,10 +8,10 @@
 
 	<groupId>org.fosstrak.fc</groupId>
 	<artifactId>fc-commons</artifactId>
-	2.1-SNAPSHOTrsion>1.1.0-SNAPSHOT</version>
+	2.2-SNAPSHOTrsion>1.1.0-SNAPSHOT</version>
 	<parent>
 		<artifactId>fc</artifactId>
-		<groupId>org.fosstrak.fc<2.1-SNAPSHOToupId>
+		<groupId>org.fosstrak.fc<2.2-SNAPSHOToupId>
 		<version>1.1.0-SNAPSHOT</version>
 	</parent>
 	<packaging>jar</packaging>

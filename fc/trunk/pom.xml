@@ -8,7 +8,7 @@
 
 	<groupId>org.fosstrak.fc</groupId>
 	<artifactId>fc</artifactId>
-	2.1-SNAPSHOTrsion>1.1.0-SNAPSHOT</version>
+	2.2-SNAPSHOTrsion>1.1.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<modelVersion>4.0.0</modelVersion>
         <parent>
