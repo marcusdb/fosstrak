@@ -47,10 +47,7 @@
   	</scm============== -->
 	<!-- Build settings                                	<!-- ORANGE: Properties============ -->
 	<!-- Dependencies                                                -->
-	<!-- ================================================== -->
-
-	<properties>
-		<fosstrak.llrp.version>1.1.0</fosstrak.llrp.version>
+	<!-- =======================================ion>1.1.0</fosstrak.llrp.version>
 		<apache.axis2.version>1.4.1</apache.axis2.version>
 	</properties>
 
