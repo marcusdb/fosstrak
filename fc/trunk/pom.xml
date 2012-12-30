@@ -17,7 +17,7 @@
     		<version>7</version>
   	</parent>
 	<propertie6.1</lib-cxf-version>
-		<lib-spring-version>3.0.7.RELEASE</lib-springxf-version>2.2.6</lib-cxf-version>
+		<lib-spring-version>3.0.7.RELEASE</lib-springxf-version>	<fosstrak.llrp.version>1.2.1</fosstrak.llrp.f-version>2.2.6</lib-cxf-version>
 	</properties>
 
 	<!-- =========================================================== -->
